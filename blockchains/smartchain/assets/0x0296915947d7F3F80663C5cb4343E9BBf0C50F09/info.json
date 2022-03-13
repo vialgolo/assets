@@ -1,0 +1,11 @@
+{
+    "name": "CelebritySwap",
+    "symbol": "Celebrity",
+    "type": "BEP20",
+    "decimals": 18,
+    "description": "Celebrity aims to offer a fast and open blockchain for decentralized applications.",
+    "website": "https://celebrity.cash/",
+    "explorer": "https://bscscan.com/token/0x0296915947d7F3F80663C5cb4343E9BBf0C50F09",
+    "status": "active",
+    "id": "0x0296915947d7F3F80663C5cb4343E9BBf0C50F09"
+}
