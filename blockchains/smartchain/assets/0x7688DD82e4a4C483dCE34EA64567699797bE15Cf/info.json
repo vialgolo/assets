@@ -1,0 +1,29 @@
+{
+    "name": "CelebritySwap",
+    "symbol": "Celebrity",
+    "type": "BEP20",
+    "decimals": 18,
+    "description": "Celebrity aims to offer a fast and open blockchain for decentralized applications.",
+    "website": "https://celebrity.cash/",
+    "explorer": "https://bscscan.com/token/0x7688DD82e4a4C483dCE34EA64567699797bE15Cf",
+    "status": "active",
+    "id": "0x7688DD82e4a4C483dCE34EA64567699797bE15Cf",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/celebrityswap"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/celebrityswap"
+        },
+        {
+            "name": "youtube",
+            "url": "https://youtube.com/channel/celebrityswap"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/thunderada-app"
+        }
+    ]
+}
